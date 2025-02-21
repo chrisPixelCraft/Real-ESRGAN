@@ -145,3 +145,8 @@ results/*
 results_bookmarks/*
 *.pdf
 results_bookmarks_simple/*
+bookmarks_v2/*
+gfpgan/*
+results_v2/*
+results_v3/*
+/

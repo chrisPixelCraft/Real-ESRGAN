@@ -1,2 +1,2 @@
-gdown 1gbz4lLWkjVrzaHxmmkMmTCkX71MSZ1Fq -O bookmarks.zip
-unzip bookmarks.zip
+gdown 1G9KA81LChF3RJQicdGE0mN93yU8yRQX_ -O bookmarks_v2.zip
+unzip bookmarks_v2.zip
