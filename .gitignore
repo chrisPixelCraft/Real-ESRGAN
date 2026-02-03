@@ -139,14 +139,16 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.zip
-bookmarks/*
-results/*
-results_bookmarks/*
-*.pdf
-results_bookmarks_simple/*
-bookmarks_v2/*
-gfpgan/*
-results_v2/*
-results_v3/*
-/
+# --- local inference artifacts ---
+golden_tmp/
+golden_tmp_upscaled/
+golden_tmp_bench/
+
+# merged/source PDFs
+golden_stone_all.pdf
+golden_stone_all_x4plus_300dpi.pdf
+golden_stone/*.pdf
+golden_stone/work/
+
+# gfpgan downloaded weights
+gfpgan/weights/
